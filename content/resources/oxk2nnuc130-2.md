@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/b720b960d1fb55d7ad8b51dbb95bfa9c_Oxk2nnuC130.vtt
+file: /media/courses/8-962-general-relativity-spring-2020/b720b960d1fb55d7ad8b51dbb95bfa9c_Oxk2nnuC130.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b720b960-d1fb-55d7-ad8b-51dbb95bfa9c

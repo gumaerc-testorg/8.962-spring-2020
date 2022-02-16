@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Spacetime Curvature'
 uid: 4b0e21f8-1809-34bf-b12a-3e13c1c0d9ac
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/ac9ec83380b755e5835c0f950548fde6_JWSdeg4jkoY.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/ac9ec83380b755e5835c0f950548fde6_JWSdeg4jkoY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/JWSdeg4jkoY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/2b5174a8dcad7bd8c2a296931ef443b3_JWSdeg4jkoY.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/2b5174a8dcad7bd8c2a296931ef443b3_JWSdeg4jkoY.pdf
 video_metadata:
   youtube_id: JWSdeg4jkoY
 ---

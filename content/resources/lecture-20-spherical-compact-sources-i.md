@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Spherical Compact Sources I'
 uid: 1f8f4705-e486-d6d3-a15f-282ca256dbcd
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/b4ab5d5111945b0aa836729cbcf40d01_PVYTNKZDHBo.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/b4ab5d5111945b0aa836729cbcf40d01_PVYTNKZDHBo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/PVYTNKZDHBo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/96fab1aa22da86fbde1c5abc5b6b8c7e_PVYTNKZDHBo.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/96fab1aa22da86fbde1c5abc5b6b8c7e_PVYTNKZDHBo.pdf
 video_metadata:
   youtube_id: PVYTNKZDHBo
 ---

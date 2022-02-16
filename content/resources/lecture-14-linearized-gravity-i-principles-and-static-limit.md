@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Linearized Gravity I: Principles and Static Limit'
 uid: 40d4b543-41cc-914f-5fe3-0beaf554a5c4
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/5ff2c5cf93975c83808cc095ed5a8a09_9lIgAPvppk0.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/5ff2c5cf93975c83808cc095ed5a8a09_9lIgAPvppk0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9lIgAPvppk0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/7395ae025351f820f17dd472b416c76d_9lIgAPvppk0.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/7395ae025351f820f17dd472b416c76d_9lIgAPvppk0.pdf
 video_metadata:
   youtube_id: 9lIgAPvppk0
 ---

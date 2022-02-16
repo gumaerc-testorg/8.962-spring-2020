@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/5d9c78bd037e6f9d29e25d1d8aa83afc_6MssatXXAzc.pdf
+file: /media/courses/8-962-general-relativity-spring-2020/5d9c78bd037e6f9d29e25d1d8aa83afc_6MssatXXAzc.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 5d9c78bd-037e-6f9d-29e2-5d1d8aa83afc

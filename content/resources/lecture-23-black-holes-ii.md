@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Black Holes II'
 uid: e2c5bd00-a38e-8e05-9a10-74c323ff2251
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec23_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/1d96129a0037521f8d0bca2870bbd01f_uNWqE3LS1E.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/1d96129a0037521f8d0bca2870bbd01f_uNWqE3LS1E.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_uNWqE3LS1E/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/7ed0f53936bf28b5578be29776d6bb9c_uNWqE3LS1E.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/7ed0f53936bf28b5578be29776d6bb9c_uNWqE3LS1E.pdf
 video_metadata:
   youtube_id: _uNWqE3LS1E
 ---

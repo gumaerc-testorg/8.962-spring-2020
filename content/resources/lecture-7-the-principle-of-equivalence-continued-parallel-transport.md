@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: The Principle of Equivalence Continued; Parallel Transport'
 uid: 009e9bc8-1210-f24c-8ec5-7e2bed6dc256
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/7e3e9263c6f8534fa336814b705e16b1_gnWKpHUj11w.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/7e3e9263c6f8534fa336814b705e16b1_gnWKpHUj11w.vtt
   video_thumbnail_file: https://img.youtube.com/vi/gnWKpHUj11w/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/5ceefe9356be954268527b93f35628a9_gnWKpHUj11w.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/5ceefe9356be954268527b93f35628a9_gnWKpHUj11w.pdf
 video_metadata:
   youtube_id: gnWKpHUj11w
 ---

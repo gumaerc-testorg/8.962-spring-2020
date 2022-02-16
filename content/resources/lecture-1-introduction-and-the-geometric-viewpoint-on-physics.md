@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction and The Geometric Viewpoint on Physics'
 uid: bc254d6f-5c42-6e41-9467-aa5b2f0c0d95
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/478db2f1d82b53d69ce71652bda7c901_iRVfaR3N5K4.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/478db2f1d82b53d69ce71652bda7c901_iRVfaR3N5K4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iRVfaR3N5K4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/8ca735e49b2c530959de14bbbd5e06ea_iRVfaR3N5K4.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/8ca735e49b2c530959de14bbbd5e06ea_iRVfaR3N5K4.pdf
 video_metadata:
   youtube_id: iRVfaR3N5K4
 ---

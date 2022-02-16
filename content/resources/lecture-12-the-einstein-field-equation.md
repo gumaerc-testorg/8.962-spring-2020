@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: The Einstein Field Equation'
 uid: 491583f3-3ee3-ffdc-ffaa-67b0ea2b807a
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/a6c6de29aaf4597ca3c7a4017cd23b29_OIjLUzS6SQA.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/a6c6de29aaf4597ca3c7a4017cd23b29_OIjLUzS6SQA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/OIjLUzS6SQA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/b8543a35845e7da6a3bcc46873bc227d_OIjLUzS6SQA.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/b8543a35845e7da6a3bcc46873bc227d_OIjLUzS6SQA.pdf
 video_metadata:
   youtube_id: OIjLUzS6SQA
 ---

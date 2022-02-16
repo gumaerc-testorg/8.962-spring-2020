@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Linearized Gravity II: Dynamic Sources'
 uid: 7ad72550-6a54-2043-c895-b6b9c7d2288a
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/b720b960d1fb55d7ad8b51dbb95bfa9c_Oxk2nnuC130.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/b720b960d1fb55d7ad8b51dbb95bfa9c_Oxk2nnuC130.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Oxk2nnuC130/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/74c32c0e424e0f751ce90b937405cb41_Oxk2nnuC130.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/74c32c0e424e0f751ce90b937405cb41_Oxk2nnuC130.pdf
 video_metadata:
   youtube_id: Oxk2nnuC130
 ---

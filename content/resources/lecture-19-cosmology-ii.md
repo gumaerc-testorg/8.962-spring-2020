@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Cosmology II'
 uid: b80eb703-3802-54c8-78e8-613d707d1890
 video_files:
   archive_url: https://archive.org/download/MIT8.962S20/MIT8_962S20_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/ab3e6bd9b1755d02ac64e6d2c76337e2_p_10lgn2BiI.vtt
+  video_captions_file: /courses/8-962-general-relativity-spring-2020/ab3e6bd9b1755d02ac64e6d2c76337e2_p_10lgn2BiI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p_10lgn2BiI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-962-general-relativity-spring-2020/7d554b8ced54e6d434f1c4acdbadf2a3_p_10lgn2BiI.pdf
+  video_transcript_file: /courses/8-962-general-relativity-spring-2020/7d554b8ced54e6d434f1c4acdbadf2a3_p_10lgn2BiI.pdf
 video_metadata:
   youtube_id: p_10lgn2BiI
 ---
