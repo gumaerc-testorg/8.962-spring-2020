@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: The Principle of Equivalence Continued; Parallel Transport'
 uid: 009e9bc8-1210-f24c-8ec5-7e2bed6dc256
 video_files:

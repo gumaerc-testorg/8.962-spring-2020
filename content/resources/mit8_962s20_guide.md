@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: f20f292f-de3c-3f30-813c-74354d742878
 resourcetype: Document
 title: 8.962 S2020 Lecture Guide
 uid: 74363123-6d28-66f6-ba12-9f06110d8b1a
