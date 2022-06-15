@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Motion near black holes. Taking advantage of the symmetries of a black hole spacetime, we develop simple equations that describe orbits near black holes. We deduce the existence of an innermost stable orbit—any orbit that is set up inside this radius will either fall into the black hole or rocket out to infinity if slightly disturbed. We also examine the motion of light near these objects, showing that a “light ring” exists where light is bent into a circular orbit. This is closely related to black hole shadow that was observed by the Event Horizon Telescope.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

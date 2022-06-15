@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Spherically symmetric and compact bodies. We develop the spacetime of a spherical “star” made of some kind of matter, using the Einstein field equations to develop the Tolman-Oppenheimer-Volkov (TOV) equations which determine this body’s structure and that generalize the Newtonian equations of stellar structure to general relativity.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

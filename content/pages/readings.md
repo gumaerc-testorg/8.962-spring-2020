@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists additional text suggested for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

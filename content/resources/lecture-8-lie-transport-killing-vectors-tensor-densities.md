@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Discussion of a second notion of transport, “Lie” transport, and the associated Lie derivative. Use of this derivative to discuss spacetime symmetries, as encapsulated by Killing vectors. Also discusses “tensor densities,” volume elements in general spacetimes, and certain tricks and identities that use the determinant of the spacetime metric.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

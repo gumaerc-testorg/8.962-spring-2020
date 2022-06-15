@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A second route to the Einstein field equation, using a variational principle. (Note, this lecture is due for an overhaul; we were unable to do so as planned in Spring 2020 due to the outbreak of the COVID-19 pandemic.)
 
 **Instructor:** Prof. Scott Hughes
+
+
+

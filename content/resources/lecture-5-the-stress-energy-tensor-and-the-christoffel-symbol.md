@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** More on the stress-energy tensor: symmetries and the physical meaning of stress-energy components in a given representation. Differential formulation of conservation of energy and conservation of momentum. Prelude to curvature: special relativity and tensor analyses in curvilinear coordinates. The Christoffel symbol and covariant derivatives.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

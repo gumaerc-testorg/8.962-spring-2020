@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-962-general-relativity-spring-2020/a6c6de29aaf4597ca3c7a4017cd23b29_OIjLUzS6SQA.vtt
+file: /courses/8-962-general-relativity-spring-2020/a6c6de29aaf4597ca3c7a4017cd23b29_OIjLUzS6SQA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

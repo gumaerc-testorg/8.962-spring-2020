@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the course prerequisites, content, requirements,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ Required Textbook
 
 Carroll, Sean M. _Spacetime and Geometry: An Introduction to General Relativity_. Cambridge University Press, 2019. ISBN: 9781108488396.
 
-Additional texts are listed in the [readings section]({{< baseurl >}}/pages/readings). Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
+Additional texts are listed in the {{% resource_link 3358da10-238e-afc4-9dd4-456a88b94fbe "readings section" %}}. Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
 
 Problem Sets and Exams 
 -----------------------

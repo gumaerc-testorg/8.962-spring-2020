@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** The kinematics of bodies in spacetime. Free fall described by geodesics: trajectories that parallel transport their tangents through spacetime, and extremize the experienced proper time. How symmetries of spacetime lead to quantities being conserved along geodesics; associated notions of “energy” and “angular momentum” for certain spacetimes.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Introduction; the geometric viewpoint on physics. Review of Lorentz transformations and Lorentz-invariant intervals. The 4-vector; basis vectors and vector components. Introduction to component notation. The inner product between two 4-vectors, and the metric tensor.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

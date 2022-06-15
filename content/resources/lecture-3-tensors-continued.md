@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** More on tensors, derivatives, and 1-forms. Contraction of tensor indices; the dual nature of vectors and the associated 1-form found by lowering the vector index.
 
 **Instructor:** Prof. Scott Hughes
+
+
+

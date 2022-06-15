@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** How a certain spacetime duplicates the kinematics of Newtonian gravity for slow motion (continuation of lecture 9). Spacetime curvature, deduced by examining parallel transport of a vector around an infinitesimal parallelogram, described by the Riemann tensor (a 4 index tensor with 20 independent components).
 
 **Instructor:** Prof. Scott Hughes
+
+
+

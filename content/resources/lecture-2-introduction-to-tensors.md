@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** The notion of “coordinate” bases. Several important 4-vectors for physics: 4-velocity, 4-momentum, 4-acceleration, and their properties. 1-forms, and tensors more generally. Using the metric and its inverse to raise and lower tensor indices. Introduction to tensor fields. The number flux 4-vector, and its use in defining a conservation law.
 
 **Instructor:** Prof. Scott Hughes
+
+
+
