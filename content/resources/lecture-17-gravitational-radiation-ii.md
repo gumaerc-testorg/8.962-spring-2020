@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** More advanced properties of gravitational radiation, in particular how to characterize the energy carried by these waves.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Cosmology and cosmological spacetimes. This is the first spacetime we compute using a symmetry principle. By requiring that a spacetime be spatially maximally symmetric (i.e., that it have the largest number of possible Killing vectors), we constrain the functional form of its metric. Imposing the Einstein field equations, we develop a pair of simple equations that control how the overall scale of this spacetime evolves. The properties of the matter and energy which fill this universe then determine the universe’s geometry and how it evolves with time.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

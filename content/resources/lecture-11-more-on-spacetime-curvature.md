@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Variants on the Riemann curvature tensor: the Ricci tensor and Ricci scalar, both obtained by taking traces of the Riemann curvature. The connection of curvature to tides; geodesic deviation. Finally, the Bianchi identity, an identity describing derivatives of the Riemann curvature.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

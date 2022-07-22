@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Introduction to the principle of equivalence: freely falling frames to generalize the inertial frames of special relativity. Two important variants of the equivalence principle (EP): The weak EP (one cannot distinguish free fall under gravity from uniform acceleration over “sufficiently small” regions); the Einstein EP (the laws of physics in freely falling frames are identical to those of special relativity over “sufficiently small” regions).
 
 **Instructor:** Prof. Scott Hughes
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Solving the linearized field equation for a dynamical source. Using a radiative Green’s function, we find an exact solution for this case. By carefully considering gauge and gauge-invariant spacetime components, we characterize the nature of the degrees of freedom encoded in this solution. Of particular relevance to the next two lectures is that two components of this solution describe gravitational radiation in a gauge-invariant manner. (It’s worth reiterating that this lecture is somewhat advanced; students do not need to follow every detail in order to get the lecture’s point.)
 
 **Instructor:** Prof. Scott Hughes
-
-
 

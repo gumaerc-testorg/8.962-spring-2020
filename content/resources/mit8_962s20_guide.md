@@ -5,6 +5,7 @@ file: /courses/8-962-general-relativity-spring-2020/743631236d2866f6ba129f06110d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection

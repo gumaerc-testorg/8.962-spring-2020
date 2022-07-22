@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Solving the Einstein field equation by linearizing around a flat background. We treat spacetime as the metric of special relativity plus a perturbation, examine how quantities transform infinitesimal coordinate transformations (which turn out to be equivalent to gauge transformations in electrodynamics), and develop the Einstein field equation in this limit. Focusing on static sources, we derive the Newtonian limit.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

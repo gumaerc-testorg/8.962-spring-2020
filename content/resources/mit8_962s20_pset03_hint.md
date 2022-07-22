@@ -5,6 +5,7 @@ file: /courses/8-962-general-relativity-spring-2020/924cce621da2d5d7dea45eeef81a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The Einstein curvature tensor, a variation on the Ricci curvature, defined so that it has vanishing covariant divergence. Using this tensor, we at last build a field theory for spacetime, motivating the Einstein field equation by arguing how to generalize a gravitational field equation to relativity.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

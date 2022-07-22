@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** How to solve the TOV equations, and limiting cases. We examine Buchdahl’s theorem, which shows that a body has a maximum compactness and show that if one tries to make a body more compact than this, something weird appears to happen. In particular, we find very different views of radial infall into this body depending on whether clocks tick per unit proper time (appropriate to the infalling observer) or per unit coordinate time (appropriate to distant observers watching this process).
 
 **Instructor:** Prof. Scott Hughes
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Cosmology continued. We tie the properties of this spacetime to quantities which can be measured, in particular the redshift of light which is emitted early in the universe’s history but is measured now, and three different notions of distance between events and observers. The current standard paradigm for the nature of the universe, and some outstanding problems which are the focus of modern research.
 
 **Instructor:** Prof. Scott Hughes
-
-
 

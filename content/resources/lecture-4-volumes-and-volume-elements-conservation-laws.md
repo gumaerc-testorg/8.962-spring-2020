@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Volumes and volume elements, covariant construction using the Levi-Civita tensor. How to go between differential and integral formulations of conservation laws. Electrodynamics in geometric language (4-current, Faraday field tensor). Introduction of the stress-energy tensor, with the perfect fluid stress-energy tensor as a particularly important example.
 
 **Instructor:** Prof. Scott Hughes
-
-
 
