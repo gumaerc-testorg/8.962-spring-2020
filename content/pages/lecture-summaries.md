@@ -8,7 +8,7 @@ title: Lecture Summaries
 uid: f20f292f-de3c-3f30-813c-74354d742878
 ---
 
-This {{% resource_link 74363123-6d28-66f6-ba12-9f06110d8b1a "Lecture Guide (PDF)" %}} contains more detailed summaries of the lectures than the information in the table. Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
+This {{% resource_link 74363123-6d28-66f6-ba12-9f06110d8b1a "Lecture Guide (PDF)" %}} contains more detailed summaries of the lectures than the information in the table. Copies of {{% resource_link "2814c8f2-a6c5-4ffd-8e3d-4c459d48b663" "Prof. Hughes’s handwritten course notes" %}} are also available.
 
 {{< tableopen >}}
 {{< theadopen >}}
