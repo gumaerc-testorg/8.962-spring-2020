@@ -30,7 +30,7 @@ Required Textbook
 
 Carroll, Sean M. _Spacetime and Geometry: An Introduction to General Relativity_. Cambridge University Press, 2019. ISBN: 9781108488396.
 
-Additional texts are listed in the {{% resource_link 3358da10-238e-afc4-9dd4-456a88b94fbe "readings section" %}}. Copies of [Prof. Hughes’s handwritten course notes](https://web.mit.edu/sahughes/www/8.962/index.html) are also available.
+Additional texts are listed in the {{% resource_link 3358da10-238e-afc4-9dd4-456a88b94fbe "readings section" %}}. Copies of {{% resource_link "2814c8f2-a6c5-4ffd-8e3d-4c459d48b663" "Prof. Hughes’s handwritten course notes" %}} are also available.
 
 Problem Sets and Exams 
 -----------------------
