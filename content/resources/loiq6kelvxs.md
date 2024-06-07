@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-962-general-relativity-spring-2020/81570485bd2b63bafb2b8e7ca63f36fa_LoIq6KElVxs.srt
+file_size: 73244
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
