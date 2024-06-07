@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-962-general-relativity-spring-2020/51e0e197456b97777d5de5aa26f7d2ad_MIT8_962S20_pset01_hint.pdf
+file_size: 110748
 file_type: application/pdf
 learning_resource_types:
 - Assignments
